@@ -1,4 +1,4 @@
-# ARTIFICIAL-INTELLIGENCE
+# MINIMAX ALGORITHM
 
 Minimax algorithm is a backtracking or recursive algorithm used in decision making and game theory.
 
